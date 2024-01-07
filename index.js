@@ -1,7 +1,7 @@
 const lib = require('./lib.js')
 const express = require('express');
 
-console.log('hello ')
+console.log('hello hi')
 
 const server = express();
 server.listen(8080);
