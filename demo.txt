@@ -6,4 +6,5 @@ Search Wikipedia
 Search
 Create account
 Log in
+logout
 
